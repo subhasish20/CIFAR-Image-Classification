@@ -27,4 +27,4 @@ To get started with this project:
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/your-username/CIFAR-10-Classifier.git
+   git clone https://github.com/subhasish20/CIFAR-Image-Classification.git
