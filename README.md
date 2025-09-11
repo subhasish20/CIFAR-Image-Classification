@@ -1,5 +1,7 @@
 # CIFAR-10 Image Classification Project 🖼️🤖
 
+**<U>CFAIR</U>** :- ***Canadian Institute For Advanced Research.***
+
 This project uses deep learning techniques to classify CIFAR-10 images into 10 object categories. The goal is to explore and optimize various models for better image recognition accuracy. 🏆
 
 ## 🔍 Overview
@@ -16,7 +18,7 @@ This repo focuses on:
 ## 🛠️ Technologies Used
 
 - **Python** 🐍
-- **Keras** with TensorFlow backend 🌐
+- **TensorFlow/Keras**🌐
 - **NumPy** and **Pandas** for data manipulation 📊
 - **Matplotlib** and **Seaborn** for data visualization 📈
 - **Scikit-learn** for model evaluation 📉
